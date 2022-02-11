@@ -6,7 +6,7 @@
 - I like to play chess
 - I want to become a highly qualified specialist
 
-### Languages and Tools
+### Languages and Tools:
 [![Python](https://github.com/egortaran/egortaran/blob/main/python.svg)](https://github.com/egortaran/egortaran/blob/main/python.svg) Python &nbsp;
 [![django_framework](https://github.com/egortaran/egortaran/blob/main/django_framework.svg)](https://github.com/egortaran/egortaran/blob/main/django_framework.svg) Django &nbsp;
 [![drf](https://github.com/egortaran/egortaran/blob/main/drf.png)](https://github.com/egortaran/egortaran/blob/main/drf.png) DRF &nbsp;
@@ -21,3 +21,10 @@
 ### Connect with me:
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_taran_e/)
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />](https://t.me/Taran_27)
+
+### My Projects:
+- Multi-page website. Online store (https://github.com/egortaran/GeekShop)
+- Online Chat https://github.com/egortaran/Client-server
+- wsgi-framework (soon)
+- Web-service for managing TODO-notes (soon)
+- 
