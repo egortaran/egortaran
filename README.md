@@ -1,6 +1,10 @@
-# Egor Taran
+## Hello, I'm Egor
 
-## Python Developer
+# I'm a Python Developer
+- Geekbrains Student
+- I'm interested in learning something new
+- I like to play chess
+- I want to become a highly qualified specialist
 
 ### Languages and Tools
 [![Python](https://github.com/egortaran/egortaran/blob/main/python.svg)](https://github.com/egortaran/egortaran/blob/main/python.svg) Python &nbsp;
