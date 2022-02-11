@@ -1,4 +1,4 @@
-## Hello, I'm Egor
+### Hello there, I'm Egor
 
 # I'm a Python Developer
 - Geekbrains Student
@@ -18,6 +18,6 @@
 [![css](https://github.com/egortaran/egortaran/blob/main/css.svg)](https://github.com/egortaran/egortaran/blob/main/css.svg) css &nbsp;
 [![docker](https://github.com/egortaran/egortaran/blob/main/docker.png)](https://github.com/egortaran/egortaran/blob/main/docker.png) docker &nbsp;
 
-
-
-
+### Connect with me:
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_taran_e/)
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />](https://t.me/Taran_27)
