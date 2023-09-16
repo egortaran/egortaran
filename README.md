@@ -1,10 +1,7 @@
 ### Hello there, I'm Egor
 
 # I'm a Python Developer
-- Geekbrains Student
-- I'm interested in learning something new
-- I like to play chess
-- I want to become a highly qualified specialist
+
 
 ### Languages and Tools:
 [![Python](https://github.com/egortaran/egortaran/blob/main/python.svg)](https://github.com/egortaran/egortaran/blob/main/python.svg) Python &nbsp;
@@ -26,9 +23,3 @@
 
 <br />
 <br />
-
-### My Projects:
-- Multi-page website. Online store (https://github.com/egortaran/GeekShop)
-- Online Chat https://github.com/egortaran/Client-server
-- wsgi-framework (soon)
-- Web-service for managing TODO-notes (soon)
